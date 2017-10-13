@@ -20,7 +20,8 @@ Pushparaj Britto
   </ul>
 
 <p><b>Sequence</b> Phylogenetic trees can be constructued after processing either Protein or DNA sequences. I am going to use Protein sequences as my input.</p>
-<p><Datasets> Protein Data Bank (RCSB PDB) will serve as my source for the input datasets.</p>
+<br>
+<p><b>Datasets</b> Protein Data Bank (RCSB PDB) will serve as my source for the input datasets.</p>
 <p><b>Methods:</b> I have chosen Neighbor-Joining and Maximum Likelihood methods as respective Phenetic and Cladistic methods for evaluation and comparison.</p>
 <p><b>Tools:</b> I have identified PHYLIP 3.5 package as the primary tool to construct phylogenetic trees. It provides a wide-range of programs (PROTPARS, PROTDIST) to analyse sequence and generate distance matrix data as well as molecular sequence data. Tree constructing programs are too available in PHYLIP program library. T-Coffee can be used as the multpiple - sequence alignment tool</p>
 <h3>References</h3>
