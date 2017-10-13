@@ -2,7 +2,7 @@ title: Pushparaj Britto
 description: <tagline> Coming Soon </tagline>
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
