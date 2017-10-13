@@ -1,7 +1,16 @@
-<h2> Project Title: </h2>
+<h2> Project Title </h2>
 Evaluating Phylogenetic Tree Construction methods : Distance-based and Character-based
 
 <h2> Team Members </h2>
-I am Pushparaj Britto. Grad Student at University Of Florida pursuing Master of Science in Computer Science.
+Pushparaj Britto
 
-<h1>##Go Gators !!<h1>
+<h2> Abstract </h2>
+
+<h2> Plan </h2>
+
+<h2>References<h2>
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
