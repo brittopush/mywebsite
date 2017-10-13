@@ -7,7 +7,8 @@ Pushparaj Britto
 <h3> Abstract </h3>
 
 <h3> Plan of Action </h3>
-  <p><b>Methods:</b> There are two methods primarily used when adopting a Distance-based model. They are,
+  <p><b>Methods</b> 
+  <br>There are two methods primarily used when adopting a Distance-based model. They are,
   <ul>
     <li>Neighbor-Joining</li>
     <li>UPGMA</li> 
