@@ -2,10 +2,10 @@
 Evaluating Phylogenetic Tree Construction methods : Distance-based and Character-based
 
 <h3> Team Members </h3>
-Pushparaj Britto
+Pushparaj Britto : 9178-5569
 
 <h3> Abstract </h3>
-
+A phylogenetic tree is a data structure shoving evolutionary relationships between biological species based upon similarities and differences in their physical or genetic characteristics. There are two major kinds of methods for generating phylogenetic trees: Distance-based (Phenetic) and Character-based (Cladistic). DNA sequences are applied for analyzing closely related species. On other hand, Protein sequences are used as input data to study wide range of taxa. I aim to find out the computational method best suited for generating phylogenetic tree using protein sequence as input.  
 <h3> Plan of Action </h3>
   <p><b>Methods</b> 
   <br>There are two methods primarily used when adopting a Distance-based model. They are,
